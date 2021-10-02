@@ -1,0 +1,13 @@
+export const ADD_CHILDREN = 'ADD_CHILDREN';
+export const EDIT_CHILDREN = 'EDIT_CHILDREN';
+export const REMOVE_CHILDREN = 'REMOVE_CHILDREN';
+export const GET_ALL_CHILDREN = 'GET_ALL_CHILDREN';
+export const ADD_PARENT = 'ADD_PARENT';
+export const GET_PARENT = 'GET_PARENT';
+export const ADD_CARD = 'ADD_CARD';
+export const EDIT_CARD = 'EDIT_CARD';
+export const REMOVE_CARD = 'REMOVE_CARD';
+export const GET_ALL_CARD = 'GET_ALL_CARD';
+export const NAME = 'name';
+export const AGE = 'age';
+export const EMAIL = 'email';
